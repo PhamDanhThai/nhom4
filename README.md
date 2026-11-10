@@ -6,21 +6,6 @@
 * **Thành viên:** Phạm Danh Thái - Ngô Văn Hiếu - Phạm Anh Quân
 
 
----
-
-### 📂 Cấu trúc Repository
-nhom4/
-│
-├── wine+quality/              # Thư mục chứa mã nguồn và dữ liệu
-│   ├── winequality-white.csv  # Tập dữ liệu rượu vang trắng (UCI)
-│   └── wine_model.ipynb       # Jupyter Notebook chứa toàn bộ pipeline ML
-│
-├── report/                    # Thư mục chứa báo cáo (LaTeX / PDF)
-│   └── report.pdf             # Bản báo cáo hoàn chỉnh của đồ án
-│
-├── README.md                  # Hướng dẫn chi tiết về đồ án
-└── requirements.txt           # Danh sách các thư viện Python cần thiết
----
 
 ### 📊 Giới thiệu đề tài & Dữ liệu
 * **Mô tả bài toán:** Xây dựng mô hình học máy (Machine Learning) dạng Hồi quy (Regression) để dự đoán điểm chất lượng cảm quan của rượu vang trắng dựa trên các chỉ số hóa học đầu vào.
